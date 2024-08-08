@@ -25,6 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             window.rootViewController = navVC
         }
         window.makeKeyAndVisible()
+        
         return true
     }
 
